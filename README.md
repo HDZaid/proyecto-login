@@ -5,7 +5,7 @@ JWT, backend en Django REST Framework y frontend en React.
 
 ```
 proyecto-login/
-├── backend/      → Django + DRF + SimpleJWT (repositorio 1)
-└── frontend/     → React + Vite (repositorio 2)
+├── backend/      → Django + DRF + SimpleJWT 
+└── frontend/     → React + Vite
 ```
 
